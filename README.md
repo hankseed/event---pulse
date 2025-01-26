@@ -1,2 +1,2 @@
 # event---pulse
-kjill feed for star citizen
+kill feed for star citizen
